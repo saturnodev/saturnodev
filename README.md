@@ -66,7 +66,7 @@ Me especializo en diseñar, asegurar y automatizar infraestructuras críticas pa
   *Atenea Care System* – proyecto en **TypeScript**.
 
 - 🕸️ [**raxnet**](https://github.com/saturnodev/raxnet)  
-  Proyecto en **Python**.
+  Proyecto en **Python**. Utiliería de redes para diagnóstico y pruebas de red.
 
 > 👉 Puedes ver más proyectos y detalles técnicos en mi sitio:  
 > [https://saturnodev.com](https://saturnodev.com)

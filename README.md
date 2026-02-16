@@ -2,7 +2,7 @@
 
 **Infrastructure, Security, and Compliance Manager**  
 **Cloud Architect & DevOps Expert**  
-Ubicado en *Guadalajara, México*.
+Ubicado en México*.
 
 ---
 
